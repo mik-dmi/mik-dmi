@@ -21,5 +21,4 @@ This is my personal GitHub account, where you'll find projects I've developed ou
 
 #
 
-[website]: https://miguel-portfolio-two.vercel.app/
 
